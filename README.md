@@ -35,6 +35,9 @@ Form canary
 <img width="537" height="101" alt="image" src="https://github.com/user-attachments/assets/0ca3cd19-111c-4cdb-be32-92e3f35a323b" />
 <img width="629" height="253" alt="image" src="https://github.com/user-attachments/assets/49ea33cf-c14d-43ec-96f8-f78605972a43" />
 
+# Other
+Note that the session is saved. Meaning it will remember the login.
+
 
 
 
